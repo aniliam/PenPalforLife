@@ -1,0 +1,13 @@
+.row-centered{
+    text-align: center;
+}
+.card-pad{
+    padding-left:  20%;
+}
+.row-right{
+    text-align: right;
+    padding-left: 55%;
+}
+.dropdown{    
+    padding-right: 10%
+}
